@@ -23,5 +23,5 @@ Identify various customer profiles: Platinum Customers are high spenders with re
 
 This structured approach to customer segmentation in Power BI allows businesses to leverage data effectively for personalized marketing and improved customer experiences.
 
-Conclusion
+###Conclusion
 Successful customer segmentation in Power BI enables tailored marketing strategies and enhances customer experience. By ensuring datasets are cleaned and standardized, you facilitate meaningful analysis and actionable insights.
